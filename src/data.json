@@ -6,7 +6,7 @@
       "image": "/images/dress1.jpg",
       "description": "about dress 1",
       "price": 500000,
-      "avaliableSize": ["X", "L", "XL", "XXL"]
+      "availableSizes": ["X", "L", "XL", "XXL"]
     },
     {
       "_id": "dress2",
@@ -14,7 +14,7 @@
       "image": "/images/dress2.jpg",
       "description": "about dress 2",
       "price": 200000,
-      "avaliableSize": ["X", "M", "L"]
+      "availableSizes": ["X", "M", "L"]
     },
     {
       "_id": "dress3",
@@ -22,7 +22,7 @@
       "image": "/images/dress3.jpg",
       "description": "about dress 3",
       "price": 100000,
-      "avaliableSize": ["XL", "XXL"]
+      "availableSizes": ["XL", "XXL"]
     },
     {
       "_id": "dress4",
@@ -30,7 +30,7 @@
       "image": "/images/dress4.jpg",
       "description": "about dress 4",
       "price": 320000,
-      "avaliableSize": ["M", "L", "XL", "XXL"]
+      "availableSizes": ["M", "L", "XL", "XXL"]
     },
     {
       "_id": "dress5",
@@ -38,7 +38,7 @@
       "image": "/images/dress5.jpg",
       "description": "about dress 5",
       "price": 120000,
-      "avaliableSize": ["X", "L", "XXL"]
+      "availableSizes": ["X", "L", "XXL"]
     },
     {
       "_id": "dress6",
@@ -46,7 +46,7 @@
       "image": "/images/dress6.jpg",
       "description": "about dress 6",
       "price": 450000,
-      "avaliableSize": ["L", "XL", "XXL"]
+      "availableSizes": ["L", "XL", "XXL"]
     }
   ]
 }
